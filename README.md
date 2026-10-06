@@ -11,6 +11,8 @@ Research and design notes for a multi-use-case voice agent product.
 | File | What it covers |
 |---|---|
 | [docs/voice-agent-guide.md](docs/voice-agent-guide.md) | Voice agent basics, all agent types, model comparison, product design |
+| [docs/top-voice-agent-platforms.md](docs/top-voice-agent-platforms.md) | Top 10 voice agent platforms and why they stand out |
+| [docs/elevenlabs-agents.md](docs/elevenlabs-agents.md) | ElevenLabs Agents: sign-up, testing, and 21 capabilities |
 
 ## Status
 
